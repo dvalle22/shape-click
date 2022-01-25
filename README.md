@@ -1,5 +1,7 @@
-# shape-click
+# Shape-Click
 
-A click/tapping game with difficulty preferences and different shapes.
+A click/tapping game with difficulty settings and different shape options.
 
-Created by Danilo V. in December 2016 for CMPT 165, introductory web course at SFU.
+Author: Danilo V. 
+
+Date: December 2016
